@@ -1,0 +1,44 @@
+input[type="number"]{
+    background-color:#FDB9AC;
+}
+.container{
+    border:2px black;
+    height:500px;
+    width:400px;
+    margin-left:450px;
+    margin-top: 50px;
+    background-color:#BDAFEE;
+    
+}
+button[type=button]:hover{
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
